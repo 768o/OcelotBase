@@ -1,0 +1,8 @@
+C:\Users\程序员\source\repos\OcelotBase\Pliterature.Ocelot.Extension\bin\Debug\netstandard2.0\Pliterature.Ocelot.Extension.deps.json
+C:\Users\程序员\source\repos\OcelotBase\Pliterature.Ocelot.Extension\bin\Debug\netstandard2.0\Pliterature.Ocelot.Extension.dll
+C:\Users\程序员\source\repos\OcelotBase\Pliterature.Ocelot.Extension\obj\Debug\netstandard2.0\Pliterature.Ocelot.Extension.csproj.CoreCompileInputs.cache
+C:\Users\程序员\source\repos\OcelotBase\Pliterature.Ocelot.Extension\obj\Debug\netstandard2.0\Pliterature.Ocelot.Extension.AssemblyInfoInputs.cache
+C:\Users\程序员\source\repos\OcelotBase\Pliterature.Ocelot.Extension\obj\Debug\netstandard2.0\Pliterature.Ocelot.Extension.AssemblyInfo.cs
+C:\Users\程序员\source\repos\OcelotBase\Pliterature.Ocelot.Extension\bin\Debug\netstandard2.0\Pliterature.Ocelot.Extension.pdb
+C:\Users\程序员\source\repos\OcelotBase\Pliterature.Ocelot.Extension\obj\Debug\netstandard2.0\Pliterature.Ocelot.Extension.dll
+C:\Users\程序员\source\repos\OcelotBase\Pliterature.Ocelot.Extension\obj\Debug\netstandard2.0\Pliterature.Ocelot.Extension.pdb
